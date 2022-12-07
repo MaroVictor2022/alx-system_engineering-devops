@@ -1,1 +1,1 @@
-hello world script
+0x02 shell redirections
